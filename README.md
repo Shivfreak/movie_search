@@ -53,3 +53,10 @@ While the current version of the application is fully functional, there are seve
 -   **User Authentication**: Implementing user accounts would allow users to save their favorites to a database, making their lists accessible across different devices.
 -   **Advanced Search and Filtering**: Adding options to filter search results by year, genre, or other criteria would provide a more powerful search experience.
 -   **Pagination**: For search queries that return a large number of results, implementing pagination would improve performance and usability.
+
+# OUTPUT
+
+<img width="1869" height="849" alt="Image" src="https://github.com/user-attachments/assets/6188b514-eaa7-40b3-b6dd-03705fa0099e" />
+
+
+<img width="1888" height="843" alt="Image" src="https://github.com/user-attachments/assets/aa8b69ee-16c3-4fc2-8bb5-c7289ead81e3" />
