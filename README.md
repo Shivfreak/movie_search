@@ -1,6 +1,18 @@
-# Detailed Movie Search Application
+#Movie Search Application
 
-This document provides a comprehensive overview of the Movie Search App, a feature-rich web application built using modern web technologies. The primary goal of this project is to offer a seamless and intuitive user experience for discovering and managing movies. The application is developed with React, a powerful JavaScript library for building user interfaces, and styled with Tailwind CSS, a utility-first CSS framework that enables rapid UI development. The entire project is set up and managed with Vite, a next-generation front-end tooling that provides a faster and leaner development experience.
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: SHIVAM PANDEY
+
+*INTERN ID*: CT06DF1951
+
+*DOMAIN*: REACT JS
+
+*DURATION*: 6 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
+This file provides a comprehensive overview of the Movie Search App, a feature-rich web application built using modern web technologies. The primary goal of this project is to offer a seamless and intuitive user experience for discovering and managing movies. The application is developed with React, a powerful JavaScript library for building user interfaces, and styled with Tailwind CSS, a utility-first CSS framework that enables rapid UI development. The entire project is set up and managed with Vite, a next-generation front-end tooling that provides a faster and leaner development experience.
 
 ## Application Overview
 
